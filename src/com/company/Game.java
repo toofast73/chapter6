@@ -5,9 +5,6 @@ import java.util.Scanner;
 
 public class Game {
 
-
-
-
     public static void playGame() {
         System.out.println("Привет, дружок! Сыграем в игру? На поле с 10 ячейкамии спрятан корабль. Ты должен угадать номер ячейки, чтобы ударить но нему.");
 
